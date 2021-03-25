@@ -1,0 +1,23 @@
+PODS:
+  - QRCodeScan (0.0.1)
+  - Utils (0.0.3)
+
+DEPENDENCIES:
+  - QRCodeScan (from `../`)
+  - Utils
+
+SPEC REPOS:
+  https://e.coding.net/hongyiapp/hongyizujian/PrivatePod.git:
+    - Utils
+
+EXTERNAL SOURCES:
+  QRCodeScan:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QRCodeScan: 5af082cb30515284652b19945783c8d41f636ee4
+  Utils: 30b5bb9afc7e5cb3b38e3bf47c76abcc7ce2c42c
+
+PODFILE CHECKSUM: fb4146cec6c827c9bd7605ea03ac77e7a4494d8e
+
+COCOAPODS: 1.9.1
